@@ -1,16 +1,20 @@
 customers:
-  - image_url: "assets/images/synergia_logo.png"
-    image_alt: "Synergia"
+  - image_url: "assets/images/customers/google.svg"
+    image_alt: "Google"
     link_url:  "http://www.synergia-medical.com/"
-  - image_url: "assets/images/alert_96.png"
-    image_alt: "Alert Innovation"
+  
+  - image_url: "assets/images/customers/european-commission.svg"
+    image_alt: "European Comission"
     link_url:  "https://www.alertinnovation.com/"
+    
   - image_url: "assets/images/southern-launch-114-black.png"
     image_alt: "Southern Launch"
     link_url:  "https://southernlaunch.space/"
-  - image_url: "assets/images/cresco-logo2-300x142.png"
-    image_alt: "Cresco Data"
+  
+  - image_url: "assets/images/customers/fluor.svg"
+    image_alt: "Fluor"
     link_url:  "https://www.crescodata.com/"
-  - image_url: "assets/images/QueensLogo_colour_100.png"
-    image_alt: "Queen's University"
+  
+  - image_url: "assets/images/customers/ubc_5NarrowLogo_ex_768.png"
+    image_alt: "University of British Columbia"
     link_url:  "https://www.queensu.ca/"
