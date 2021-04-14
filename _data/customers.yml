@@ -1,20 +1,24 @@
 customers:
   - image_url: "assets/images/customers/google.svg"
     image_alt: "Google"
-    link_url:  "http://www.synergia-medical.com/"
+    link_url:  "https://www.google.com/about/datacenters/"
   
   - image_url: "assets/images/customers/european-commission.svg"
     image_alt: "European Comission"
-    link_url:  "https://www.alertinnovation.com/"
+    link_url:  "https://ec.europa.eu/info/index_en"
     
+  - image_url: "assets/images/customers/fluor.svg"
+    image_alt: "Fluor"
+    link_url:  "https://www.fluor.com"
+  
   - image_url: "assets/images/southern-launch-114-black.png"
     image_alt: "Southern Launch"
     link_url:  "https://southernlaunch.space/"
   
-  - image_url: "assets/images/customers/fluor.svg"
-    image_alt: "Fluor"
-    link_url:  "https://www.crescodata.com/"
-  
   - image_url: "assets/images/customers/ubc_5NarrowLogo_ex_768.png"
     image_alt: "University of British Columbia"
-    link_url:  "https://www.queensu.ca/"
+    link_url:  "https://qmi.ubc.ca"
+  
+  - image_url: "assets/images/customers/icatalyst.png"
+    image_alt: "ICatalyst"
+    link_url:  "https://icatalyst.com"
