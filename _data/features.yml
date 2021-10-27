@@ -1,10 +1,14 @@
 features:
   - title: Visual Project Planning
-    text: GamePlan’s unique Whiteboard is a visual planning workspace and a powerful communication tool.  Visual planning is easy, so everyone on your team can plan with no training required.  The Whiteboard communicates the plan to your team, your board and your investors.  No other tool visually plans and communicates like GamePlan.
+    text: 
+      - GamePlan’s unique Whiteboard is a visual planning workspace and a powerful communication tool.  Visual planning is easy, so everyone on your team can plan with no training required.  
+      - The Whiteboard communicates the plan to your team, your board and your investors.  No other tool visually plans and communicates like GamePlan.
     image: /assets/images/GamePlan-visual-project-planning-2-540px.jpg
     image_alt: GamePlan Visual Project Planning 
   - title: Project Scheduling
-    text: Achieving your deliverables on time is critical for any new business.  A project schedule shows exactly when you will deliver based on your team size and their availability.  As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows you if due dates are achievable.
+    text: 
+      - Achieving your deliverables on time is critical for any new business.  
+      - A project schedule shows exactly when you will deliver based on your team size and their availability.  As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows you if due dates are achievable.
     image: /assets/images/GamePlan-Gantt-chart-540px.jpg
     image_alt: GamePlan Gantt chart
   - title: Project Costing
