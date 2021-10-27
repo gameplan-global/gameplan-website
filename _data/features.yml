@@ -4,15 +4,15 @@ features:
     image: /assets/images/GamePlan-visual-project-planning-2-540px.jpg
     image_alt: GamePlan Visual Project Planning 
   - title: Project Scheduling
-    text: Achieving your deliverables on time is critical for any new business.  A project schedule shows exactly when you will deliver based on your team size and their availability.  As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows you if given due dates are achievable.
+    text: Achieving your deliverables on time is critical for any new business.  A project schedule shows exactly when you will deliver based on your team size and their availability.  As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows you if due dates are achievable.
     image: /assets/images/GamePlan-Gantt-chart-540px.jpg
     image_alt: GamePlan Gantt chart
   - title: Project Costing
-    text: New businesses typically have limited funds to spend before they need to make a profit or do their next financing.  Therefore, it is critical to accurately forecast costs and to stay on budget.  GamePlan calculates how much projects will cost so you can create realistic budgets. When there are changes to a project, GamePlan shows how the project cost is affected.
+    text: New businesses typically have limited funds to spend before they need to make a profit or do their next financing.  Therefore, it is critical to accurately forecast costs and to stay on budget.  GamePlan calculates how much projects will cost so you can create realistic budgets. GamePlan also creates cost schedules that show when your expenses will be incurred. When there are changes to a project, GamePlan shows how the project cost is affected.
     image: assets/images/GamePlan-cost-summary5.png
     image_alt: GamePlan Gantt chart
   - title: Project Communication
-    text: In a new business you need to communicate business plans internally, to the board, and to current and potential investors.  Everyone understands a plan in GamePlan because it is presented visually.  Understanding the plan promotes buy-in from the team, encourages relevant questions from the board, and gives investors confidence in the business.
+    text: In a new business you need to communicate business plans internally with your team, to the board, and to current and potential investors.  Everyone understands a plan in GamePlan because it is presented visually on the GamePlan Whiteboard.  Understanding the plan promotes buy-in from the team, encourages relevant questions from the board, and gives investors confidence in the business.
     image: /assets/images/GamePlan_Milestones.png
     image_alt: GamePlan Project Tracking 
   - title: Project Tracking
