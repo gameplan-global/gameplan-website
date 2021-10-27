@@ -8,7 +8,7 @@ features:
     image: /assets/images/GamePlan-Gantt-chart-540px.jpg
     image_alt: GamePlan Gantt chart
   - title: Project Costing
-    text: New businesses typically have limited funds to spend before they need to make a profit or do their next financing.  Therefore, it is critical to accurately forecast costs and to stay on budget.  GamePlan calculates how much projects will cost so you can create realistic budgets. GamePlan also creates cost schedules that show when your expenses will be incurred. When there are changes to a project, GamePlan shows how the project cost is affected.
+    text: New businesses typically have limited funds to spend before they need to make a profit or do their next financing.  Therefore, it is critical to accurately forecast costs and to stay on budget.  GamePlan calculates how much projects will cost so you can create realistic budgets. GamePlan also creates cost schedules that show when expenses will be incurred. When there are changes to a project, GamePlan shows how the project cost is affected.
     image: assets/images/GamePlan-cost-summary5.png
     image_alt: GamePlan Gantt chart
   - title: Project Communication
@@ -16,6 +16,6 @@ features:
     image: /assets/images/GamePlan_Milestones.png
     image_alt: GamePlan Project Tracking 
   - title: Project Tracking
-    text: There are unknowns with any new business, and often these unknowns cause delays.  GamePlan immediately shows you how any delay affects your deliverable dates.  If due dates cannot slide, GamePlan lets you easily make changes to your plan, such as adding staff or reducing scope.  GamePlan gives you the information you need to bring your deliverable dates back on time.
+    text: There are unknowns with any new business, and often these unknowns cause delays.  GamePlan immediately shows how any delay affects your deliverable dates.  If due dates cannot slide, you can easily make changes to your plan, such as adding staff or reducing scope.  GamePlan gives you the information you need to bring your deliverable dates back on time.
     image: /assets/images/GamePlan_Milestones.png
     image_alt: GamePlan Project Tracking
