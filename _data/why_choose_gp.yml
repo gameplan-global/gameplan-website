@@ -4,11 +4,11 @@ reasons:
     icon: hotel
     color: bg-gp-blue
   - title: Puts you in control
-    text: You are back in the driver's seat. You know that you just have to follow the plan and you will be on time and on budget.
+    text: You are back in the driver's seat. You know that you just have to follow the plan and you will deliver on time and on budget.
     icon: bus
     color: bg-gp-yellow
   - title: Buy-in from everyone
-    text: GamePlan visually communicates your plan in a way that everyone understands.  It is easier to get approval and buy-in when the plan is well understood.
+    text: GamePlan visually communicates in a way that everyone understands.  It is easier to get approval when the plan is well understood.
     icon: smile-o
     color: bg-gp-green 
   - title: Learn and improve
