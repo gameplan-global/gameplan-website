@@ -10,7 +10,12 @@ Only GamePlan delivers true resource-leveled project scheduling through a visual
 
 {% assign text2 = include.title | default: "
 
-Beware of task mangagement tools (Asana, Monday, Trello,...) that show a Gantt chart. In these tools the start and end dates are entered by the user.  This is dangerous because when people see a Gantt chart, they believe it is achievable.  When it isn’t, due dates are missed and the team is stressed trying to meet unachievable deadlines.  GamePlan’s Gantt chart is calculated by GamePlan so it always shows an achievable schedule. 
+Beware of task mangagement tools (Asana, Monday, Trello,...) that show a Gantt chart. In these tools the start and end dates are entered by the user.  This is dangerous because when people see a Gantt chart, they believe it is achievable.  When it isn’t, due dates are missed and the team is stressed trying to meet unachievable deadlines. 
+" %}
+
+{% assign text3 = include.title | default: "
+
+GamePlan’s Gantt chart is created by GamePlan's proprietary algorithms which create a schedule that is optimized and achievable. 
 " %}
 
 
@@ -32,6 +37,9 @@ Beware of task mangagement tools (Asana, Monday, Trello,...) that show a Gantt c
             <div class="col-lg-8 mx-auto">
                 <p class="u-fs-22">
                     {{ text2 }}
+                    <br />
+                    <br />
+                    {{ text3 }}
                     <br />
                     <br />
                 </p>
