@@ -2,19 +2,19 @@ features:
   - title: Visual Project Planning
     text: 
       - GamePlan’s unique Whiteboard is a visual planning workspace and a powerful communication tool.  Visual planning is easy, so everyone on your team can plan with no training required.  
-      - The Whiteboard communicates the plan to your team, your board and your investors. No other tool visually plans and communicates like GamePlan.
+      - The Whiteboard communicates the plan to your team, your board and your investors. Efficient and effective communication promotes business success.
     image: /assets/images/GamePlan-visual-project-planning-2-540px.jpg
     image_alt: GamePlan Visual Project Planning 
   - title: Project Scheduling
     text: 
-      - Achieving your deliverables on time is critical for any new business. A project schedule shows exactly when you will deliver based on your team size and their availability. 
-      - As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows you if due dates are achievable.
+      - Achieving your deliverables on time is critical for any new business. GamePlan shows exactly when you will deliver based on your team size and their availability, allowing you to communicate deliverable dates with confidence. 
+      - As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows if due dates are achievable.
     image: /assets/images/GamePlan-Gantt-chart-540px.jpg
     image_alt: GamePlan Gantt chart
   - title: Project Costing
     text:
-      - New businesses typically have limited funds to spend before they need to make a profit or do their next financing.  Therefore, it is critical to accurately forecast costs and to stay on budget.
-      - GamePlan calculates how much projects will cost so you can create realistic budgets. GamePlan also creates cost schedules that show when expenses will be incurred.
+      - Every new business needs to manage cash flow and their runway.  It is critical to forecast costs correctly and to stay on budget.
+      - GamePlan calculates exactly how much projects will cost so you can create accurate budgets. GamePlan also creates cost schedules that show when expenses will be incurred.
       - When there are changes to a project, GamePlan shows how the project cost is affected.
     image: assets/images/GamePlan-cost-summary5.png
     image_alt: GamePlan Gantt chart
@@ -23,7 +23,7 @@ features:
       - In a new business you need to communicate business plans internally with your team, to the board, and to current and potential investors.
       - Everyone understands a plan in GamePlan because it is presented visually on the GamePlan Whiteboard.
       - Understanding the plan promotes buy-in from the team, encourages relevant questions from the board, and gives investors confidence in the business.
-    image: /assets/images/GamePlan_Milestones.png
+    image: /assets/images/GamePlan-communication-3.jpg
     image_alt: GamePlan Project Tracking 
   - title: Project Tracking
     text: 
