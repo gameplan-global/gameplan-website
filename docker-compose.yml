@@ -1,8 +1,11 @@
-jekyll:
-    image: jekyll/builder:3.8.2
-    command: jekyll serve --watch --incremental --force-polling
-    ports:
-        - 4000:4000
-    volumes:
-        - .:/srv/jekyll
-        - ./vendor/bundle:/usr/local/bundle
+version: "3"
+services: 
+    jekyll:
+        image: jekyll/builder:3.8.2
+        command: jekyll serve --watch --force-polling --livereload
+        ports:
+            - 4000:4000
+            - 35729:35729
+        volumes:
+            - .:/srv/jekyll
+            - ./vendor/bundle:/usr/local/bundle

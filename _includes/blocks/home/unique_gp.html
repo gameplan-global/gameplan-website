@@ -1,4 +1,4 @@
-{% assign title = include.title | default: "How is GamePlan different to other Gantt Chart software?" %}
+{% assign title = include.title | default: "How is GamePlan different to other project management software?" %}
 {% assign text = include.title | default: "
 
 You plan your project by drawing your project workflow on the GamePlan Whiteboard.
@@ -10,7 +10,12 @@ Only GamePlan delivers true resource-leveled project scheduling through a visual
 
 {% assign text2 = include.title | default: "
 
-Beware that not all Gantt chart software creates a practical schedule.  The Gantt chart schedule must be resource-leveled, which means that no one is double-booked.  Otherwise the Gantt chart is misleading as the schedule cannot be achieved. GamePlan's Gantt chart always shows a resource-leveled, achievable schedule.
+Beware of task mangagement tools (Asana, Monday, Trello,...) that show a Gantt chart. In these tools the start and end dates are entered by the user.  This is dangerous because when people see a Gantt chart, they believe it is achievable.  When it isn’t, due dates are missed and the team is stressed trying to meet unachievable deadlines. 
+" %}
+
+{% assign text3 = include.title | default: "
+
+GamePlan’s Gantt chart is created by GamePlan's proprietary algorithms which create a schedule that is optimized and achievable. 
 " %}
 
 
@@ -32,6 +37,9 @@ Beware that not all Gantt chart software creates a practical schedule.  The Gant
             <div class="col-lg-8 mx-auto">
                 <p class="u-fs-22">
                     {{ text2 }}
+                    <br />
+                    <br />
+                    {{ text3 }}
                     <br />
                     <br />
                 </p>

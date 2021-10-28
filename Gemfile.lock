@@ -100,3 +100,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-toc
+
+BUNDLED WITH
+   1.17.1
