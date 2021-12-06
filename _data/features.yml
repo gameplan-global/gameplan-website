@@ -2,32 +2,32 @@ features:
   - title: Visual Project Planning
     text: 
       - GamePlan’s unique Whiteboard is a visual planning workspace and a powerful communication tool.  Visual planning is easy, so everyone on your team can plan with no training required.  
-      - The Whiteboard communicates the plan to your team, your board and your investors. Effective communication is essential for business success.
+      - The Whiteboard communicates the plan to your team, your board, investors and clients. Effective communication is essential for business success.
     image: /assets/images/GamePlan-visual-project-planning-2-540px.jpg
     image_alt: GamePlan Visual Project Planning 
   - title: Project Scheduling
     text: 
-      - Achieving your deliverables on time is critical for any new business. GamePlan shows exactly when you will deliver based on your team size and their availability, allowing you to communicate deliverable dates with confidence. 
+      - Achieving your deliverables on time is critical for any business. GamePlan shows exactly when you will deliver based on your team size and their availability, allowing you to communicate deliverable dates with confidence. 
       - As you visually plan on the Whiteboard, a resource-leveled schedule is automatically created and presented on the GamePlan Gantt chart.  This shows if due dates are achievable.
     image: /assets/images/GamePlan-Gantt-chart-540px.jpg
     image_alt: GamePlan Gantt chart
   - title: Project Costing
     text:
-      - Every new business needs to manage cash flow and their runway.  It is critical to forecast costs correctly and to stay on budget.
+      - Every business needs to manage cash flow, therefore it is critical to forecast costs correctly and to stay on budget.
       - GamePlan calculates exactly how much projects will cost so you can create accurate budgets. GamePlan also creates cost schedules that show when expenses will be incurred.
-      - When there are changes to a project, GamePlan shows how the project cost is affected.
+      - When there are changes to a project, GamePlan shows how the change affects the project cost.
     image: assets/images/GamePlan-cost-summary5.png
     image_alt: GamePlan Gantt chart
   - title: Project Communication
     text:
-      - In a new business you need to communicate business plans internally with your team, to the board, and to current and potential investors.
+      - In a business you need to communicate business plans internally with your team, to the board, to investors and to clients.
       - Everyone understands a plan in GamePlan because it is presented visually on the GamePlan Whiteboard.
-      - Understanding the plan promotes buy-in from the team, encourages relevant questions from the board, and gives investors confidence in the business.
+      - Understanding the plan promotes buy-in from the team, encourages relevant questions from the board, and gives clients and investors confidence in you.
     image: /assets/images/GamePlan-communication-3.jpg
     image_alt: GamePlan Project Tracking 
   - title: Project Tracking
     text: 
-      - There are unknowns with any new business, and often these unknowns cause delays.  GamePlan immediately shows how any delay affects your deliverable dates.  
+      - There are unknowns with any business, and often these unknowns cause delays.  GamePlan immediately shows how any delay affects your deliverable dates.  
       - If due dates cannot slide, you can easily test changes to your plan, such as adding staff or reducing scope.
       - GamePlan gives you the information you need to bring your deliverable dates back on time.
     image: /assets/images/GamePlan_Milestones.png
